@@ -3,7 +3,7 @@ import matplotlib.pyplot
 import time
 
 K_min = 10
-K_max = 23
+K_max = 25
 
 y = 1               # pi*(massa_adjunta**2)/(N*(g**2))
 
